@@ -1,0 +1,26 @@
+[{"stream_name":"stderr","time":9.394540654,"data":"/usr/local/lib/python3.13/dist-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":9.394583674,"data":"  _validate(nbdict, ref, version, version_minor, relax_add_props)\n"}
+,{"stream_name":"stderr","time":10.735517547,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.735554661,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.735558556,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.735561183,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":11.469044373,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.469070763,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.469077158,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.469101937,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":31.892191485,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":31.892215171,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":32.254989447,"data":"\u001b[0m12 tasks\n"}
+,{"stream_name":"stdout","time":33.104456902,"data":"tasks with lib.py frames in raw traceback: 0 | with frames after name fallback: 12\n"}
+,{"stream_name":"stdout","time":181.402346129,"data":"MODE = gemma\n"}
+,{"stream_name":"stdout","time":182.367455919,"data":"oracle fixes pass 12 / 12\n"}
+,{"stream_name":"stdout","time":2412.770126089,"data":"120 rows -\u003eresults.json\n"}
+,{"stream_name":"stderr","time":2420.139721397,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2420.139752869,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2420.338626121,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2420.338650034,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2421.155352293,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":2421.232091042,"data":"[NbConvertApp] Writing 41310 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":2423.688164118,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2424.255592387,"data":"[NbConvertApp] Writing 367932 bytes to __results__.html\n"}
+]

@@ -1,0 +1,1082 @@
+[
+ {
+  "task": "mean",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1944,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "mean",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1511,
+  "frac_tokens": 0.7772633744855967,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1084,
+  "frac_tokens": 0.5576131687242798,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 745,
+  "frac_tokens": 0.38323045267489714,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 464,
+  "frac_tokens": 0.23868312757201646,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 596,
+  "frac_tokens": 0.3065843621399177,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 728,
+  "frac_tokens": 0.37448559670781895,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 745,
+  "frac_tokens": 0.38323045267489714,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 732,
+  "frac_tokens": 0.3765432098765432,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "mean",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 20,
+  "frac_tokens": 0.0102880658436214,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "clamp",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1946,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "clamp",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1513,
+  "frac_tokens": 0.7774922918807811,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1086,
+  "frac_tokens": 0.5580678314491264,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 747,
+  "frac_tokens": 0.38386433710174717,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 466,
+  "frac_tokens": 0.2394655704008222,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 600,
+  "frac_tokens": 0.30832476875642345,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 730,
+  "frac_tokens": 0.3751284686536485,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 747,
+  "frac_tokens": 0.38386433710174717,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 736,
+  "frac_tokens": 0.37821171634121276,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "clamp",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 22,
+  "frac_tokens": 0.011305241521068859,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1952,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1519,
+  "frac_tokens": 0.7781762295081968,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1092,
+  "frac_tokens": 0.5594262295081968,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 748,
+  "frac_tokens": 0.3831967213114754,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 467,
+  "frac_tokens": 0.23924180327868852,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 568,
+  "frac_tokens": 0.29098360655737704,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 734,
+  "frac_tokens": 0.3760245901639344,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 748,
+  "frac_tokens": 0.3831967213114754,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 732,
+  "frac_tokens": 0.375,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "is_palindrome",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 28,
+  "frac_tokens": 0.014344262295081968,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "fib",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1958,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "fib",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1521,
+  "frac_tokens": 0.7768130745658836,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1107,
+  "frac_tokens": 0.5653728294177732,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 743,
+  "frac_tokens": 0.3794688457609806,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 473,
+  "frac_tokens": 0.24157303370786518,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 584,
+  "frac_tokens": 0.2982635342185904,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 733,
+  "frac_tokens": 0.3743615934627171,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 709,
+  "frac_tokens": 0.3621041879468846,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 750,
+  "frac_tokens": 0.3830439223697651,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "fib",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 34,
+  "frac_tokens": 0.017364657814096015,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "chunk",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1959,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "chunk",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1526,
+  "frac_tokens": 0.7789688616641144,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1099,
+  "frac_tokens": 0.5610005104645227,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 760,
+  "frac_tokens": 0.38795303726391017,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 479,
+  "frac_tokens": 0.24451250638080654,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 598,
+  "frac_tokens": 0.3052577845839714,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 743,
+  "frac_tokens": 0.37927514037774374,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 760,
+  "frac_tokens": 0.38795303726391017,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 760,
+  "frac_tokens": 0.38795303726391017,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "chunk",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 35,
+  "frac_tokens": 0.017866258295048495,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "word_count",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1941,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "word_count",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1508,
+  "frac_tokens": 0.7769191138588356,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1081,
+  "frac_tokens": 0.5569294178258629,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 742,
+  "frac_tokens": 0.3822771767130345,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 461,
+  "frac_tokens": 0.23750643997939205,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 596,
+  "frac_tokens": 0.30705821741370426,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 725,
+  "frac_tokens": 0.37351880473982485,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 742,
+  "frac_tokens": 0.3822771767130345,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 732,
+  "frac_tokens": 0.37712519319938176,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "word_count",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 17,
+  "frac_tokens": 0.008758371973209686,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "safe_div",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1945,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "safe_div",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1512,
+  "frac_tokens": 0.7773778920308483,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1077,
+  "frac_tokens": 0.5537275064267352,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 741,
+  "frac_tokens": 0.3809768637532134,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 460,
+  "frac_tokens": 0.2365038560411311,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 589,
+  "frac_tokens": 0.30282776349614393,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 721,
+  "frac_tokens": 0.370694087403599,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 741,
+  "frac_tokens": 0.3809768637532134,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 742,
+  "frac_tokens": 0.38149100257069407,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "safe_div",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 21,
+  "frac_tokens": 0.010796915167095116,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "dedupe",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1938,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "dedupe",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1505,
+  "frac_tokens": 0.7765737874097007,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1078,
+  "frac_tokens": 0.5562435500515995,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 739,
+  "frac_tokens": 0.3813209494324045,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 458,
+  "frac_tokens": 0.23632610939112486,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 596,
+  "frac_tokens": 0.3075335397316821,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 722,
+  "frac_tokens": 0.37254901960784315,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 739,
+  "frac_tokens": 0.3813209494324045,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 732,
+  "frac_tokens": 0.37770897832817335,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "dedupe",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 14,
+  "frac_tokens": 0.007223942208462332,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "flatten",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1947,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "flatten",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1505,
+  "frac_tokens": 0.7729840780688239,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1080,
+  "frac_tokens": 0.5546995377503852,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 739,
+  "frac_tokens": 0.3795582948125321,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 457,
+  "frac_tokens": 0.2347200821777093,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 584,
+  "frac_tokens": 0.29994863893168977,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 722,
+  "frac_tokens": 0.37082691319979455,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 739,
+  "frac_tokens": 0.3795582948125321,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 737,
+  "frac_tokens": 0.3785310734463277,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "flatten",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 23,
+  "frac_tokens": 0.011813045711350795,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "celsius",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1940,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "celsius",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1507,
+  "frac_tokens": 0.7768041237113402,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1080,
+  "frac_tokens": 0.5567010309278351,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 741,
+  "frac_tokens": 0.3819587628865979,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 460,
+  "frac_tokens": 0.23711340206185566,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 596,
+  "frac_tokens": 0.30721649484536084,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 724,
+  "frac_tokens": 0.3731958762886598,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 741,
+  "frac_tokens": 0.3819587628865979,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 732,
+  "frac_tokens": 0.37731958762886597,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "celsius",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 16,
+  "frac_tokens": 0.008247422680412371,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "last_index",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1953,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "last_index",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1511,
+  "frac_tokens": 0.7736815156169995,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1086,
+  "frac_tokens": 0.5560675883256528,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 745,
+  "frac_tokens": 0.38146441372247825,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 463,
+  "frac_tokens": 0.23707117255504354,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 586,
+  "frac_tokens": 0.30005120327700974,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 728,
+  "frac_tokens": 0.3727598566308244,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 745,
+  "frac_tokens": 0.38146441372247825,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 744,
+  "frac_tokens": 0.38095238095238093,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "last_index",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 29,
+  "frac_tokens": 0.014848950332821301,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "median",
+  "variant": "query 100%",
+  "k": 1.0,
+  "tokens": 1951,
+  "frac_tokens": 1.0,
+  "bug_fn_kept": true,
+  "parses": true
+ },
+ {
+  "task": "median",
+  "variant": "query 75%",
+  "k": 0.75,
+  "tokens": 1514,
+  "frac_tokens": 0.7760123013839056,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "query 50%",
+  "k": 0.5,
+  "tokens": 1101,
+  "frac_tokens": 0.5643259866735008,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "query 30%",
+  "k": 0.3,
+  "tokens": 741,
+  "frac_tokens": 0.3798052280881599,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "query 15%",
+  "k": 0.15,
+  "tokens": 471,
+  "frac_tokens": 0.24141465914915428,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "random 30%",
+  "k": 0.3,
+  "tokens": 568,
+  "frac_tokens": 0.2911327524346489,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "no-ids 30%",
+  "k": 0.3,
+  "tokens": 733,
+  "frac_tokens": 0.37570476678626347,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "no-struct 30%",
+  "k": 0.3,
+  "tokens": 707,
+  "frac_tokens": 0.36237826755509994,
+  "bug_fn_kept": true,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "no-frames 30%",
+  "k": 0.3,
+  "tokens": 740,
+  "frac_tokens": 0.37929267042542286,
+  "bug_fn_kept": false,
+  "parses": false
+ },
+ {
+  "task": "median",
+  "variant": "traceback-only",
+  "k": null,
+  "tokens": 27,
+  "frac_tokens": 0.013839056893900564,
+  "bug_fn_kept": true,
+  "parses": true
+ }
+]

@@ -1,0 +1,11 @@
+variant,frac_tokens,bug_fn_kept,parses
+query 100%,1.0,1.0,1.0
+query 75%,0.777,1.0,0.0
+query 50%,0.558,1.0,0.0
+query 30%,0.382,1.0,0.0
+query 15%,0.239,1.0,0.0
+random 30%,0.302,0.0,0.0
+no-ids 30%,0.374,1.0,0.0
+no-struct 30%,0.379,1.0,0.0
+no-frames 30%,0.379,0.083,0.0
+traceback-only,0.012,1.0,1.0
